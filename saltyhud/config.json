@@ -2,5 +2,10 @@
   "Enabled": true,
   "RangeModifier": 1.0,
   "RangeText": "{voicerange} meters",
-  "HideWhilePauseMenuOpen": true
+  "RadioText": "Channel {channel}",
+  "HideWhilePauseMenuOpen": true,
+  "DrawMarker": 1,
+  "Position": {0, 0},
+  "MarkerColor": { 40, 255, 140, 50 },
+	"MarkerType": 1
 }
